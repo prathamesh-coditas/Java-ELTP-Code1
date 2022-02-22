@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/com.vehical.hello/com.vehical.hello.iml" filepath="$PROJECT_DIR$/com.vehical.hello/com.vehical.hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.hello/com.hello.iml" filepath="$PROJECT_DIR$/com.hello/com.hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.hello.client/com.hello.client.iml" filepath="$PROJECT_DIR$/com.hello.client/com.hello.client.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled104.iml" filepath="$PROJECT_DIR$/untitled104.iml" />
     </modules>
   </component>
