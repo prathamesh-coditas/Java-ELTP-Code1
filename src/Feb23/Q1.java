@@ -29,4 +29,23 @@ public class Q1 {
         listOptional.ifPresent(a -> a.forEach(v -> System.out.println(v)));
 
     }
-}  
+}
+/*
+Optional.empty
+Filtered value: Optional.empty
+Filtered value: Optional.empty
+Getting value: Optional Class Example
+Getting hashCode: 1431824866
+Is value present: true
+Nullable Optional: Optional[Optional Class Example]
+orElse: Optional Class Example
+orElse: Value is not present
+Optional Class Example
+1
+2
+3
+4
+5
+6
+
+ */
