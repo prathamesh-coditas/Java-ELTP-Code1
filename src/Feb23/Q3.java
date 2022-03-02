@@ -17,8 +17,8 @@ class MemoryPolluter {
 }
 /*
         **With Epsilon GC
-                Starting pollution Memory
-                Terminating due to java.lang.OutOfMemoryError: Java heap space
+                *Starting pollution Memory
+                *Terminating due to java.lang.OutOfMemoryError: Java heap space
         **with standard vm
                 *Starting pollution Memory
                 *Terminating the allocation
